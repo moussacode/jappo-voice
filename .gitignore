@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.so
+.env
+venv/
+.venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+# Fichiers audio temporaires
+*.mp3
+*.wav
+*.ogg
+*.webm
+*.m4a
+tmp_audio/
